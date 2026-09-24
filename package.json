@@ -1,6 +1,6 @@
 {
   "name": "railway-express-redis",
-  "author": "Roberto García"
+  "author": "Roberto García",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
